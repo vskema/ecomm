@@ -8,5 +8,10 @@
     "email": "test1@test.lt",
     "password": "secret",
     "id": "8a9d49fa"
+  },
+  {
+    "email": "test5@test.lt",
+    "password": "cd00c0cf1fc26d95c39d3cc99bde3433dacb981c795c83c067123687e60cd9904948ac24a6c05e872fdd86baf28dfc381b2a7549758d25289ffe51e3a1bd69df.d14f0e363ae64afd",
+    "id": "fa1b8f67"
   }
 ]
