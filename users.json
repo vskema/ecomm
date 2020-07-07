@@ -1,5 +1,12 @@
 [
   {
-    "email": "test@test.lt"
+    "email": "ds@sf.lt",
+    "password": "secret",
+    "id": "4a0c418e"
+  },
+  {
+    "email": "test1@test.lt",
+    "password": "secret",
+    "id": "8a9d49fa"
   }
 ]
