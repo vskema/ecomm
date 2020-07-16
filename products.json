@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "asdas",
+    "price": "asdasd",
+    "image": "[object Object]",
+    "id": "0cecd3bc"
+  },
+  {
+    "title": "asdas",
+    "price": "asdasd",
+    "image": "[object Object]",
+    "id": "33723ee8"
+  },
+  {
+    "title": "asdasd",
+    "price": 10,
+    "image": "[object Object]",
+    "id": "08f126ab"
+  }
+]
