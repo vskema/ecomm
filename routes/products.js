@@ -9,4 +9,6 @@ router.get('/', async (req, res) => {
     res.send(productsIndexTemplate({products: products}));
 })
 
+
+
 module.exports = router;
